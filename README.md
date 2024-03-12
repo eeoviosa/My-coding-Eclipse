@@ -1,2 +1,2 @@
-#Projects
-Compilation of various projects i am working on.
+# Projects
+Compilation of various projects I am working on.
